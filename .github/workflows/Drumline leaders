@@ -1,0 +1,21 @@
+<!-- BANNER: big opening section -->
+<section class="blk-banner">
+    <h2>Our Drumline Seniors</h2>
+    <p>The elders of our drumline</p>
+    <a class="blk-button" href=".html">Meet Andres</a>
+</section>
+
+/* BANNER */
+.blk-banner {
+    background-color: #900d03;   /* change to your brand color */
+    color: white;
+    text-align: center;
+    padding: 60px 20px;
+    border-radius: 12px;
+    margin: 20px auto;
+    max-width: 900px;
+}
+.blk-banner h2 { font-size: 40px; margin: 0 0 10px 0; }
+.blk-banner p { font-size: 20px; margin: 0 auto 24px auto; }
+.blk-button {
+    display: inline-block;
